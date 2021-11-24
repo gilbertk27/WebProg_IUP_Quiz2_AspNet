@@ -24,13 +24,13 @@ Rich Brony Catering is a catering website which can help user to see the list of
 
 ### RICH BRONY CATERING Conceptual Data Model
 
-![Quiz_2_Conceptual_Model](https://user-images.githubusercontent.com/61174498/143251973-b53518c0-9edc-4476-83fd-12993c81904c.png)
+![Screenshot (10062)](https://user-images.githubusercontent.com/61174498/143255201-48362515-2419-466d-a95d-5ab9c1207f3e.png)
 
 The image above shows the conceptual data model of the Tanya Aja website we created. We can see that there are 2 main tables that are users, and menu with their relationships that also reflect our website 5 features.
 
 
 ### RICH BRONY CATERING Physical Data Model
 
-![Quiz_2_Physical_Model](https://user-images.githubusercontent.com/61174498/143252096-7c0ec9f0-ce30-49ca-add1-f9c4185a3e09.png)
+![Screenshot (10063)](https://user-images.githubusercontent.com/61174498/143255189-3f686305-beb6-458b-9caa-769652932648.png)
 
 The image above shows the physical data model of the RICH BRONY CATERING website we created. We can see that there are 4 tables that are users, menu, failed jobs, and password resets with their relationships that also reflect our website's 5 features. Here we can also see the type of data used for each attribute of the tables like Varchar for string input.
