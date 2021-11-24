@@ -29,6 +29,8 @@ Julius Adetya Eka Bhaswara (05111942000026)
 
 Rich Brony Catering is a catering website which can help user to see the list of menu served by Rich Boy Catering. The user can also add, edit, delete the available menu or view the detail of the available menu
 
+![Screenshot (10064)](https://user-images.githubusercontent.com/61174498/143255573-e883c84a-0ef0-4f6c-8f9b-685075ccfe29.png)
+
 ## Database design (conceptual & physical data model)
 
 ### RICH BRONY CATERING Conceptual Data Model
