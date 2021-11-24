@@ -4,18 +4,27 @@
 
 ### Group of :
 Agustinus Aldi Irawan (05111942000015)
+
 Gilbert Kurniawan Hariyanto (05111942000025)
+
 Julius Adetya Eka Bhaswara (05111942000026)
 
 ### Email: test@gmail.com; Password: Tester123_
 
 ## Feature List:
+
 1.) User can register, login, logout to the web
+
 2.) User can add new menu to the list
+
 3.) User can remove the existing menu
+
 4.) User can edit the existing menu
+
 5.) User can see the detail of the existing menu
+
 6.) User can see the Contact Information
+
 7.) User can see the detail of Account used to logged in
 
 Rich Brony Catering is a catering website which can help user to see the list of menu served by Rich Boy Catering. The user can also add, edit, delete the available menu or view the detail of the available menu
