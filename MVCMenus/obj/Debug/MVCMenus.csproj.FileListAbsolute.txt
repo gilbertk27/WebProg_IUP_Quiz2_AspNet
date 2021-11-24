@@ -1,0 +1,324 @@
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\MVCMenus.dll.config
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\MVCMenus.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\MVCMenus.pdb
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\csc.exe
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\csc.exe.config
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\csc.rsp
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\csi.exe
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\csi.exe.config
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\csi.rsp
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\System.AppContext.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\System.Collections.Immutable.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\System.Console.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\System.Globalization.Calendars.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\System.IO.Compression.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\System.IO.FileSystem.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\System.Net.Http.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\System.Net.Sockets.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\System.Reflection.Metadata.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\System.ValueTuple.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\System.Xml.XPath.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\vbc.exe
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\vbc.exe.config
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\vbc.rsp
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\VBCSCompiler.exe
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\roslyn\VBCSCompiler.exe.config
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Antlr3.Runtime.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\EntityFramework.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\EntityFramework.SqlServer.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Microsoft.Owin.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Microsoft.Owin.Security.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Microsoft.Owin.Security.Google.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Microsoft.Web.Infrastructure.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Newtonsoft.Json.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Owin.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\System.Web.Helpers.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\System.Web.Mvc.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\System.Web.Optimization.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\System.Web.Razor.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\System.Web.WebPages.Deployment.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\System.Web.WebPages.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\System.Web.WebPages.Razor.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\WebGrease.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\System.Web.Helpers.xml
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\System.Web.Mvc.xml
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\System.Web.Optimization.xml
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\System.Web.Razor.xml
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\System.Web.WebPages.xml
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\System.Web.WebPages.Deployment.xml
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\System.Web.WebPages.Razor.xml
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Newtonsoft.Json.xml
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Antlr3.Runtime.pdb
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\EntityFramework.xml
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\EntityFramework.SqlServer.xml
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Microsoft.Owin.xml
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Microsoft.Owin.Security.xml
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Microsoft.Owin.Security.Google.xml
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\obj\Debug\MVCMenus.csprojAssemblyReference.cache
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\obj\Debug\MVCMenus.csproj.CoreCompileInputs.cache
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\obj\Debug\MVCMenus.csproj.CopyComplete
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\obj\Debug\MVCMenus.dll
+D:\TC\Pweb C\ASP.NET\MVCMenus\MVCMenus\obj\Debug\MVCMenus.pdb
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\MVCMenus.dll.config
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\MVCMenus.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\MVCMenus.pdb
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\csc.exe
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\csc.exe.config
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\csc.rsp
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\csi.exe
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\csi.exe.config
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\csi.rsp
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\System.AppContext.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\System.Collections.Immutable.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\System.Console.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\System.Globalization.Calendars.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\System.IO.Compression.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\System.IO.FileSystem.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\System.Net.Http.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\System.Net.Sockets.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\System.Reflection.Metadata.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\System.ValueTuple.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\System.Xml.XPath.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\vbc.exe
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\vbc.exe.config
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\vbc.rsp
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\VBCSCompiler.exe
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\roslyn\VBCSCompiler.exe.config
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Antlr3.Runtime.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\EntityFramework.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\EntityFramework.SqlServer.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Microsoft.Owin.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Microsoft.Owin.Security.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Microsoft.Owin.Security.Google.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Microsoft.Web.Infrastructure.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Newtonsoft.Json.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Owin.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\System.Web.Helpers.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\System.Web.Mvc.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\System.Web.Optimization.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\System.Web.Razor.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\System.Web.WebPages.Deployment.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\System.Web.WebPages.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\System.Web.WebPages.Razor.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\WebGrease.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\System.Web.Helpers.xml
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\System.Web.Mvc.xml
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\System.Web.Optimization.xml
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\System.Web.Razor.xml
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\System.Web.WebPages.xml
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\System.Web.WebPages.Deployment.xml
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\System.Web.WebPages.Razor.xml
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Newtonsoft.Json.xml
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Antlr3.Runtime.pdb
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\EntityFramework.xml
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\EntityFramework.SqlServer.xml
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Microsoft.Owin.xml
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Microsoft.Owin.Security.xml
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Microsoft.Owin.Security.Google.xml
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TC\Pweb C\MVCMenus\MVCMenus\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TC\Pweb C\MVCMenus\MVCMenus\obj\Debug\MVCMenus.csprojAssemblyReference.cache
+D:\TC\Pweb C\MVCMenus\MVCMenus\obj\Debug\MVCMenus.csproj.CoreCompileInputs.cache
+D:\TC\Pweb C\MVCMenus\MVCMenus\obj\Debug\MVCMenus.csproj.CopyComplete
+D:\TC\Pweb C\MVCMenus\MVCMenus\obj\Debug\MVCMenus.dll
+D:\TC\Pweb C\MVCMenus\MVCMenus\obj\Debug\MVCMenus.pdb
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\MVCMenus.dll.config
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\MVCMenus.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\MVCMenus.pdb
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\csc.exe
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\csc.exe.config
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\csc.rsp
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\csi.exe
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\csi.exe.config
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\csi.rsp
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\System.AppContext.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\System.Console.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\System.Net.Http.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\vbc.exe
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\vbc.exe.config
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\vbc.rsp
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Antlr3.Runtime.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\EntityFramework.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\EntityFramework.SqlServer.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Microsoft.Owin.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Microsoft.Owin.Security.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Newtonsoft.Json.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Owin.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\System.Web.Helpers.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\System.Web.Mvc.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\System.Web.Optimization.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\System.Web.Razor.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\System.Web.WebPages.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\WebGrease.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\System.Web.Helpers.xml
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\System.Web.Mvc.xml
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\System.Web.Optimization.xml
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\System.Web.Razor.xml
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\System.Web.WebPages.xml
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Newtonsoft.Json.xml
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Antlr3.Runtime.pdb
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\EntityFramework.xml
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\EntityFramework.SqlServer.xml
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Microsoft.Owin.xml
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Microsoft.Owin.Security.xml
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\obj\Debug\MVCMenus.csproj.AssemblyReference.cache
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\obj\Debug\MVCMenus.csproj.CoreCompileInputs.cache
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\obj\Debug\MVCMenus.csproj.CopyComplete
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\obj\Debug\MVCMenus.dll
+C:\Users\Gilbert KH\OneDrive - Institut Teknologi Sepuluh Nopember\Desktop\PwebC_Tugas2_2020-main\MVCMenus\obj\Debug\MVCMenus.pdb
